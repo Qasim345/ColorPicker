@@ -1,0 +1,15 @@
+/*
+ 
+    by Qasim Sarwari
+
+*/
+/* for text */
+@font-face{
+  font-family: 'ProductSans';
+  src: url(ProductSans.ttf);
+}
+/* for icons */
+@font-face{
+  font-family: 'material-icons';
+  src: url(material-icons.ttf);
+}
